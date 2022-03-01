@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The city of London's present danger</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08777</idno>
+            <idno type="STC">Wing C4360A</idno>
+            <idno type="STC">ESTC R174067</idno>
+            <idno type="EEBO-CITATION">62369120</idno>
+            <idno type="OCLC">ocm 62369120</idno>
+            <idno type="VID">187846</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08777)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187846)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2846:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The city of London's present danger</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1682?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint taken from colophon.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>City of London (England). --  Court of Common Council.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:187846:1"/>
+            <pb facs="tcp:187846:1"/>
+            <pb facs="tcp:187846:2"/>
+            <pb facs="tcp:187846:2"/>
+            <head>The City of <hi>London's</hi> preſent Danger.</head>
+            <p>THere being ſo great a Murmur, and ſo much diſcourſe, That the <hi>Charter</hi> of this City of <hi>London</hi> is to be made Forfeit, or elſe Surrendred by a <hi>Common-Councell,</hi> 'tis fit for every Member of the City to underſtand, that the meaning or intent of ſuch a Forfeiture or Surrender, is to diſſolve the Body Corporate or Politick of the City, to ſpoil it irrecoverably of all its Antient Govern<g ref="char:EOLhyphen"/>ment, Laws, Cuſtoms and Rights, which have been its Glory throughout <hi>Europe</hi> near two thouſand years, to bring it into the ſame ſtate with the Country Villages, only capable to be Created a new Body <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ollitick, by the Crace and Favour of his Majeſty, and to obtain ſuch Priviledges as the Crown can grant, which are infinitely inferiour to the Cuſtoms, Franchiſes, Rights and Government it now holds, by the Laws and Statutes of the Kingdom.</p>
+            <p>If then there be any danger, either of a Forfeiture or Surrender of this City's <hi>Charter,</hi> every Member of it is concerned, not only in Intereſt, but in Duty, to contribute what aſſiſtance he can to preſerve and ſecure it.</p>
+            <p>For that purpoſe every Citizen upon taken his Freedom is Sworn <hi>To maintain the Franchiſes and Cuſtoms of the</hi> CI<g ref="char:EOLhyphen"/>TY, <hi>and to keep the</hi> CITY <hi>harmleſs to his Power;</hi> and whatſoever Citizen ſhall openly attempt, or contrive the deſtruction of the Corporation, or any of its Franchiſes, Cuſtoms, or Priviledges, betrays the Community, and violates his ſaid OATH, from which no Power on Earth can abſolve.</p>
+            <p>The means at preſent projected for the forfeiture of the <hi>Charter,</hi> and the utter ruin of this Antient body Pollitick, is the proſecution of a <hi>Quo Warran<g ref="char:EOLhyphen"/>to</hi> againſt it, aſſigning thereupon ſome ACTS of <hi>Common-Cauncel,</hi> made and intended for the Citys well-fare, whereby is pretended a forfeiture of all its Priviledges, Authorities and Wealth, and its very being. As if it were reaſonable that a miſtake in a <hi>Common-Councell</hi> in the extent of their Au<g ref="char:EOLhyphen"/>thority (if any ſuch be) ſhould bring ſo great a City, and all its Membes no way concerned in ſuch miſtake, to ſuffer ſuch a hevy, dreadful and unheard of Judgment.</p>
+            <p>The miſchievious and fatal Conſequencies of any Diſſolution of this an<g ref="char:EOLhyphen"/>tient Body Politick, are ſo many, that the wiſeſt and ableſt Lawyers cannot number them, nor foreſee the evils that may attend it, ſome of the moſt vi<g ref="char:EOLhyphen"/>ſible, are theſe that follow, <hi>(viz.)</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Whatſoever the City hath claimed and enjoyed in all Ages by Cu<g ref="char:EOLhyphen"/>ſtoms and Preſcriptions, as their great Inheritance will be ſo extinguiſhed, that they can never be again revived by any grant from the Crown, as</p>
+            <p>Tolls in their Market aed Fairs, for Goods not ſold, payable by Freemen or Foreigners.</p>
+            <p>Water-baylage, and all Duties thereby growing.</p>
+            <p>Meetage, Weighage, Scavage, Hallage.</p>
+            <p>Such Cuſtoms likewiſe will be for ever Extinct, as are belonging to the 'everal Courts in <hi>London,</hi> and are different from the Common Law.</p>
+            <p>The Juriſdiction of the Ancient Court of Huſtings will be loſt in many things of great conſequence <hi>(viz.)</hi>
+            </p>
+            <p>In holding Pleas of Land.</p>
+            <p>In all real Actions whatſoever.</p>
+            <pb n="2" facs="tcp:187846:3"/>
+            <p>Bargains and Sales Inrolled, which have the force <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Feme Coverts.</hi>
+            </p>
+            <p>Inrolments of laſt Wills and Teſtaments, granting Repleoms, <hi>&amp;c.</hi>
+            </p>
+            <p>The Court of the Lord Mayor and Aldermen.</p>
+            <p>The whole Court of Orphans, and their Power and Juriſdictions about their Eſtateſ and Marriages, and all Authorities relating to Orphans, and their Protection and Puniſhing by Fines and Impriſonments, all Offenders, <hi>&amp;c.</hi>
+            </p>
+            <p>The Proviſion of Widdows and Orphans, by the Cuſtoms of which they are Judges.</p>
+            <p>Their Juriſdiction over all Companies, Fellowſhips and Brotherhoods, to make them all conſiſtent each with other, and uſeful to the whole Body.</p>
+            <div type="part">
+               <head>In the Mayors Court.</head>
+               <p>The whole Court of Equity and its Juriſdiction in all matters whatſoe<g ref="char:EOLhyphen"/>ver, whereby ſuch a multitude of meaner Traders, are ſpeedily relived with ſmall Expences.</p>
+               <p>All their Cuſtomary proceedings to Arreſt without Warrants.</p>
+               <p>To Arreſt upon Plaints entred for Debts without Summons.</p>
+               <p>All Attachments for ſpeedy Recovery of Debts.</p>
+               <p>Actions upon <hi>Conceſcit ſolvere,</hi> without proving any conſideration.</p>
+               <p>The Plea <hi>Cognovit ſcriptum ſed Petit quod Inquiratur de Debito,</hi> and thereup<g ref="char:EOLhyphen"/>on the Jury to find upon the Bond the juſt Debt and Intereſt, and no more, whereby the People enjoy the benefit of Law and Equity by the Jury at once.</p>
+               <p>The Cuſtom which prevents Wager of Law, return of Juries by Inqueſts of the Ward.</p>
+               <p>Reading of Affidavits of Perſons abſent, as Evidence within a Trading Ci<g ref="char:EOLhyphen"/>ty, is of great uſe.</p>
+               <p>
+                  <hi>Levetur,</hi> and all other Cuſtomary Proceedings.</p>
+               <p>All proceedings for Diſcharge or Relief of Aprentices, for immoderate Chaſtiſement, and not Inrolling.</p>
+               <p>Puniſhments of Offenders for breach of By-Laws, by Actions or Informa<g ref="char:EOLhyphen"/>tions.</p>
+               <p>Disfranchiſement by Informations.</p>
+               <p>Informations for aſcertaining the bounds of Wards, and many other cuſto<g ref="char:EOLhyphen"/>mary proceedings there.</p>
+            </div>
+            <div type="part">
+               <head>The Sheriffs Court.</head>
+               <p>The like JuriſdiAion as in the Lord Mayors Court, as to Pleas, Arreſts, Attachments, and many other proceedings, for ſpeedy and eaſy Juſtice with<g ref="char:EOLhyphen"/>in the City, which hath advanced the Trade, Wealth and Growth of the ſame.</p>
+               <p>The Wardmote and their Juriſdictions.</p>
+               <p>The Court of the Chamberlain, for making Freemen, binding Apprenti<g ref="char:EOLhyphen"/>ces, Correcting their Oſſences, Turning them over, with many other uſeful Powers thereunto belonging.</p>
+               <p>The Court of Conſervancy of the River of <hi>Thames</hi> and the Waters of <hi>Med<g ref="char:EOLhyphen"/>way,</hi> hath many Antient Priviledges and Juriſdiction.</p>
+               <p>The Court of Conſcience becauſe to be held before Commoners to be ap<g ref="char:EOLhyphen"/>appointed by the preſent cuſtomary Court of Aldermen.</p>
+               <p>The Court of Pollicies of Inſurance, though not held by cuſtom, becauſe the Commiſſioners thereof cannot act till Sworn, before the now cuſtomary Court of Aldermen, by 34. <hi>Eliz. Cap.</hi> 12.</p>
+               <p>There are alſo many Priviledges, Exemptions and Immunities, belonging to the Perſons or Eſtates of Freemen, by the Cuſtom of <hi>London,</hi> not enjoyed by Grant, nor to be reſtored to be reſtored by Charter.</p>
+               <p>That none but Freemen ſhall exerciſe any Trade in <hi>London,</hi> or keep any Shop to buy and ſell.</p>
+               <p>This Priviledge may beckoned the general Eſtate of the Citizens, upon which they greatly depend; it is the fruit of their Freedoms, which they obtein by their Mony or their Service, or their Fathers Coppies.</p>
+               <p>'Tis this Cuſtom that Refrains all that are not Free of the City from ha<g ref="char:EOLhyphen"/>ving
+<pb n="3" facs="tcp:187846:3"/>Shops and Trading there, puts a value upon every Citizen, advances them in their Marriages, and induces many to give good Sums of Money with their Sons to be Apprentices, and the rather becauſe many other Pri<g ref="char:EOLhyphen"/>viledges are by G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtom annexed to the Freedom, as</p>
+               <p>That a Freeman of <hi>London</hi> may uſe his Trade in any other part of <hi>England.</hi>
+               </p>
+               <p>That a Freeman bound to one Trade, may ſet up any other &amp; uſe the ſame.</p>
+               <p>The Cuſtom of <hi>Feme ſole Merchants,</hi> whereby the Induſtry of the Wiſe may provide for the whole Family, and with all ſo uſeful to ſupport poor Widows and Orphans.</p>
+               <p>Every Shop in <hi>London</hi> is a Market Overt for the Trade of the Owner.</p>
+               <p>Creditors may Arreſt before Day of Payment for better Security.</p>
+               <p>Citizens may deviſe in <hi>Mortmain.</hi>
+               </p>
+               <p>Debts on ſimple Contracts amongſt Citizens are equal to Obligations under Hand and Seal.</p>
+               <p>The Cuſtom of an Infant being bound bound by his Covenants of Ap<g ref="char:EOLhyphen"/>prenticeſhip.</p>
+               <p>The Perſons of Freemen are Exempted from all Tolls in any place in <hi>England.</hi>
+               </p>
+               <p>From moſt Duties in <hi>London,</hi> which Forreigners are ſubject to, from ſer<g ref="char:EOLhyphen"/>ving on Juries out of <hi>London.</hi>
+               </p>
+               <p>To be diſcharged of Wharfage, and many other Priviledges, all which muſt be loſt for ever, though a new Charter ſhould be obtained.</p>
+               <p>There are alſo other general Priviledges depend upon the Cuſtom, not reſtorables by Charter; as, That</p>
+               <p>The Cuſtomes of this City ſhall be tryed in the Courts at <hi>Weſtminſter,</hi> by Certificate of the Mayor and Aldermen, made by the Mouth of the Re<g ref="char:EOLhyphen"/>corder.</p>
+               <p>Cuſtom to puniſh Whores by the Civil Magiſtrate.</p>
+               <p>The Forfeitures to the City of Goods Forreign bought and Forreign ſold.</p>
+               <p>The Cuſtomary Powers of the Common-Hall.</p>
+               <p>Entring into a Houſe upon ſuſpition of Bawdry.</p>
+               <p>To call a Woman Whore, Actionable The Offices of Chamberlain, Common Serjeant, and Common Cryer, as to the principal part of their Offices relating to the Orphans.</p>
+               <p n="2">2ly. All the Authorities, Liberties, Immunities and Priviledges veſted in the preſent Corporation, and their Succeſſors, by ſeveral Acts of Parliament, are not transferrable to, or upon another Corporation, but by the ſame Au<g ref="char:EOLhyphen"/>thority, and will all be loſt. Some of which follows: As,</p>
+               <p>37. <hi>Hen.</hi> 8.12. Gives the Mayor of this old and preſent Corporation of the City, Power to Determine Controverſies of Tithes.</p>
+               <p>3. <hi>Jacob.</hi> 15. Lord Mayor and Aldermen are to appoint two Aldermen and twelve Commoners to be Commiſſioners for a Court of Conſcience, for re<g ref="char:EOLhyphen"/>covering of ſmall Debts, as is before mentioned.</p>
+               <p>3. <hi>Jacob.</hi> 18. The Mayor Commonalty and Citizens, and their Succeſ<g ref="char:EOLhyphen"/>ſors, ſhall make have and maintain, a new Cut or Stream of Water, from <hi>Chadwel, Anwel,</hi> &amp;c. to <hi>London.</hi>
+               </p>
+               <p>22.23.25. <hi>Car.</hi> 2. The ſeveral Acts for Rebuilding of <hi>London,</hi> ſo much thereof not yet executed, as relates to the Mayor. <hi>&amp;c. (viz.)</hi> Lord Mayor and Aldermen to determine Appeals concerning Maintainance-Money, Aſ<g ref="char:EOLhyphen"/>ſeſſed in lieu of Tithes.</p>
+               <p>Power to value and ſell unbuilt Grounds, to determine Controverſies about Lights Ways and Party-Walls, to give ſatisfaction to Owners.</p>
+               <p>43. <hi>Eliz.</hi> 12. The Court of the Pollicies of Aſſurance, for the Reaſons before-mentioned.</p>
+               <p>But above all, there can be no Revival of that Solemn Confirmation of the Liberties, Franchiſes, Free Cuſtoms, and Priviledges of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> by MAGNA CARTA, which have been ſince renewed and con<g ref="char:EOLhyphen"/>firmed thirty times in Parliament, many of which were accompanied with
+<pb n="4" facs="tcp:187846:4"/>the Invocaion of Vengeance upon the Infringers of the ſame and their Po<g ref="char:EOLhyphen"/>ſterity.</p>
+               <p>In Correcting Errors in the Sheriffs Courrs.</p>
+               <p>In paſſing Lands by Recoveries.</p>
+               <p n="3">3dly. Many Priviledges held by Antieet <hi>Chartert</hi> of former Kings, if Loſt or Surren<g ref="char:EOLhyphen"/>dred, can never be reſtored by any new <hi>Charter</hi> from the Crown.</p>
+               <p>The Citizens by antient <hi>Charters</hi> are exempted from the Duty to the Crown of <hi>Priſage</hi> of Wines; but if the Corporation be diſſolved, every Citizen is Diſ-franchiſed, and thereby made lyable to pay it; and the like exemption cannot be regranted by the King, at leaſt till the determination of a long Leaſe of the ſame duty in being, becauſe his former grant will prevent it during the Term.</p>
+               <p>In like manner the Citizens of <hi>London</hi> are very anciently exempted from Tolls throughout <hi>England,</hi> aut if the Corporation be diſſolved, the Crown is barred from regranting the like qy many Grants of the Tolls to others, from which no new exemption can be given.</p>
+               <p>Let ſuch as read this ſmall Collection conſider, that the ancient and excellent Compoſition of Cuſtoms, Laws and Liberties in this City, made by the Wiſdom, and approved by the Ex<g ref="char:EOLhyphen"/>perience of ſo many Ages, confirmed by 23 Kings and 33 Parliaments, muſt for ever be bro<g ref="char:EOLhyphen"/>ken to pieces, with the loſs of its <hi>Charter.</hi>
+               </p>
+               <p>And let them think, whether it be poſſible for any Man, or number of Men to foreſee the Diſtraction, Diſ-orders, and Miſchiefs, that may be the Event of ſuch a fatal ſtroak, to ſo great a Body Pollitick?</p>
+               <p>The Children unborn may groan under ſuch Conſequences of it, as are not now intended, nor can be imagined; who can tell when the Cryes of the Widdows and Orphans will ceaſe? the ſuppoſed Proviſion made for Citizens Wives and Children is void and null, if the Corpo<g ref="char:EOLhyphen"/>ration be diſſolved.</p>
+               <p>No new <hi>Charter</hi> can give them any Right to their Cuſtomary Shares <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Diviſions of their Husbands and Fathers Eſtates, ſo much depended upon in Marriages.</p>
+               <p>The deluded Fathers muſt be vexed with new Cares, who have given great Portions with their Daughters to Citizens, upon conſideration only of the City Cuſtom, without taking Joyntures for them, or Proſpect of any other Dower.</p>
+               <p>How great will be the Diſtraction and Confuſion in and about the Courts of Juſtice, not<g ref="char:EOLhyphen"/>withſtanding any Proviſion which can be made by my new <hi>Charter</hi> for other Courts.</p>
+               <p>All Cauſes and Actions depending in the preſent Courts, and the proceeding therein muſt ceaſe, as if they had never been; and all Judgments obtained not executed, will be void and no Citizen will know where, or how to ſeek his former wanted Releif, either in Law or Equity.</p>
+               <p>All the Offices belonging to the City Courts of Juſtice muſt periſh with the Courts; and all the Officers belonging to them, who have obtained their places by purchaſe, or otherwiſe; muſt ſeek out new ways for Themſelves and Families.</p>
+               <p>The ſame ſad Fate will attend all the Officers whoſe Offices depend upon the Government of the City or its Magiſtrates or its Revenue, and if any of them ſhould hope by Grace and Favour to obtain ſome new Office a new <hi>Charter,</hi> they can never claim their old Cuſtomary Fees.</p>
+               <p>The preſent Orphans to whom the City owes their Portions muſt be turned to be going, or ſtarving, or to live upon the future Charity of a new Corparation, when the Body Politick of the City ſhall be Diſſolved, no Creditor can Implead it for any Debt, neither can any of its Debtors be Impleaded.</p>
+               <p>The Death of a Corporation reduceth it to nothing, and 'twill then be, as if it had never been in reſpect of Debts or Credits, their can be no Succeſſor, Heir, or Executor to demand, or anſwer for the Body that was.</p>
+               <p>Therefore all the Goods and Chattels of the City muſt fall to the King, to be given and diſpoſed of, as he pleaſeth.</p>
+               <p>And all its Lands and real Eſtate in the <hi>Exchange, Guild Hall,</hi> &amp;c. muſt of right revert unto the Heirs of the Donors if thern be any, or Eſchear to the Crown for want of ſuch Heirs.</p>
+               <p>But the Face of Confuſion is ſo full of Horror, that 'twill appear after the Diſſolution of this mighty Body by Forfeiture or Surrender of its <hi>Charter,</hi> that I tremble to look upon it a far off.</p>
+               <p>The Lord <hi>Ceok</hi> ſays, It would require a Vollumn of it ſelf, to Treat of the great and no<g ref="char:EOLhyphen"/>table Franchiſes, Liberties and Cuſtoms of this City, and no leſs a Volumn would be neceſſa<g ref="char:EOLhyphen"/>ry to diſcribe the Diſ-orders, Loſſes, Diſtractions, Miſchiefs and Confuſions, that muſt at<g ref="char:EOLhyphen"/>tend the Deſtruction and the Death of ſo great a Body Politick.</p>
+               <p>And the City of <hi>London</hi> by this means, which is now one of the Antienteſt City's in the whole World, will at the time of ſuch Surrender be the youngeſt City and Corporation in <hi>England.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Francis Smith</hi> at the <hi>Elephant</hi> and <hi>Caſtle</hi> in <hi>Corn-hill.</hi>
+            </p>
+            <pb facs="tcp:187846:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
